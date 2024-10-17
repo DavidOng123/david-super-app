@@ -1,0 +1,75 @@
+# React Native
+node_modules/
+.buckconfig
+.git/
+.bazelproject
+.bazelrc
+.buckversion
+.circleci/
+.cvs/
+.husky/
+.idea/
+.mvn/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+android/
+ios/
+*.iml
+*.hprof
+*.lock
+build/
+*.hmap
+*.swp
+*.tsbuildinfo
+.pnpm-debug.log*
+
+# Expo
+.expo/
+.expo-shared/
+
+# Build artifacts
+dist/
+web-build/
+*.log
+build/
+*.tflite
+*.key
+*.orig.*
+*.tmp
+build/
+.gradle/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+app-debug.apk
+app-release.apk
+android/app/src/debug
+android/app/src/main/assets
+android/app/build/
+android/.gradle
+android/.idea
+android/.settings
+
+# macOS
+.DS_Store
+
+# JetBrains IDEs
+.idea/
+*.iml
+.idea/*
+
+# Logs
+npm-debug.*
+expo-env.d.ts
+
+# Miscellaneous
+*.lock
+yarn.lock
+
+# @generated expo-cli sync-2b81b286409207a5da26e14c78851eb30d8ccbdb
+expo-env.d.ts
+# @end expo-cli
